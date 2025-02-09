@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.thank-you {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-group {
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    margin: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
